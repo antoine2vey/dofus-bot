@@ -1,1 +1,1 @@
-"# dofus-bot" 
+# dofus-bot
